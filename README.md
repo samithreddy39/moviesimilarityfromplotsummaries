@@ -1,4 +1,4 @@
-# Find-Movie-Similarity-from-Plot-Summaries
+# Movie-Similarity-from-Plot-Summaries
 
 Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans.<br> 
 In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.<br>

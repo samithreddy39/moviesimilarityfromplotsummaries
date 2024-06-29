@@ -18,3 +18,4 @@ The dataset contains the titles of the top 100 movies on IMDb as well as each mo
 10. Import Matplotlib, Linkage, and Dendrograms
 11. Create merging and plot dendrogram
 12. Which movies are most similar?
+"# moviesimilarityfromplotsummaries" 
